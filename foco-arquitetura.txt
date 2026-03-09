@@ -1,0 +1,44 @@
+! === BLOQUEIO FOCO ARQUITETURA ===
+
+! YouTube
+||youtube.com^
+||youtu.be^
+||youtubei.googleapis.com^
+||ytimg.com^
+||googlevideo.com^
+
+! TikTok
+||tiktok.com^
+||tiktokv.com^
+||tiktokcdn.com^
+||byteoversea.com^
+
+! Instagram
+||instagram.com^
+||cdninstagram.com^
+||ig.me^
+
+! Roblox
+||roblox.com^
+||rbxcdn.com^
+||rbx.com^
+
+! Netflix
+||netflix.com^
+||nflxvideo.net^
+||nflximg.net^
+||nflxso.net^
+
+! Redes sociais extras
+||facebook.com^
+||fbcdn.net^
+||twitter.com^
+||x.com^
+||reddit.com^
+
+! Streaming
+||twitch.tv^
+||kick.com^
+
+! Conteúdo curto
+||kwai.com^
